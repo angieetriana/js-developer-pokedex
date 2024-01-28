@@ -15,7 +15,9 @@ body {
 }
 
 .title {
+    text-align: center;
     color: #333D47;
+    
 }
 
 @media screen and (min-width: 992px) {
